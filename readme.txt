@@ -6,3 +6,4 @@ Hello world.
 Hello,Coldcyan.
 Creating a new branch is quick.
 HELLOWORLD.
+你好，世界
